@@ -1,0 +1,2 @@
+rootProject.name='Captacion de botones'
+include ':app'
