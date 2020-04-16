@@ -36,8 +36,6 @@ public class MainActivity extends AppCompatActivity {
         btnMas = (Button) findViewById(R.id.buttonSizeMas);
         btnMenos = (Button) findViewById(R.id.buttonSizeMenos);
 
-//        float tamanoTexto;
-
 //BOTONES CON LOS QUE SE CAMBIA EL COLOR DEL TEXTVIEW
         btnRojo.setOnClickListener(new View.OnClickListener(){
             @Override
